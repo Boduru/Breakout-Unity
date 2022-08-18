@@ -1,4 +1,4 @@
-# Breakout-Unity
+# Breakout Unity
 Breakout game made with Unity.
 
 
